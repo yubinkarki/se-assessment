@@ -204,7 +204,7 @@ Sample Output 1:
 ```
 
 ```  
-Interview Questions - JavaScript  
+Interview Questions - Web Development - Junior/Trainee/Intern  
 
 > What is javascript closure?
 > What is a Single Page Application?
