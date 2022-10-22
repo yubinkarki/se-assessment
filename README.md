@@ -202,5 +202,20 @@ Sample Input 1:
 Sample Output 1:
 > [1, 2, 3, 5, 8]  
 ```
+
+```  
+Interview Questions - JavaScript  
+
+> What is javascript closure?
+> What is a Single Page Application?
+> Difference between Old Architecture and Single Page Application.
+> How is routing done in SPA?
+> Sync and Async functions.
+> String methods in javascript.
+> Difference between state/props in React.
+> About Redux.
+> Ternary Operators, Object/Array Destructuring.
+> 3/5 gallon jug riddle.
+```
 ---
 <p align="center">Thank you for tuning in. Have a nice day.</p>
