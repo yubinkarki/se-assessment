@@ -215,6 +215,7 @@ Interview Questions - Web Development - Junior/Trainee/Intern
 > Difference between state/props in React.
 > About Redux.
 > Ternary Operators, Object/Array Destructuring.
+> What is a callback function?
 > 3/5 gallon jug riddle.
 ```
 ---
