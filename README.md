@@ -216,6 +216,7 @@ Interview Questions - Web Development - Junior/Trainee/Intern
 > About Redux.
 > Ternary Operators, Object/Array Destructuring.
 > What is a callback function?
+> About dynamically typed language.
 > 3/5 gallon jug riddle.
 ```
 ---
