@@ -1,4 +1,4 @@
-## SPA for GitHub Repositories Search and Listing
+## SPA for GitHub Repositories Search and Listing | React
 
 The challenge requires developing a web application with a basic interface for exploring Github
 through its unauthenticated [APIs](https:/api.github.com/). The challenge requires developing a simple search page and a corresponding detail page.

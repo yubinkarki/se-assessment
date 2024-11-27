@@ -1,4 +1,4 @@
-## Viewing list of Pokemons
+## List of Pokemons | Flutter
 
 ### Acceptance Criteria:
 - GIVEN I am a User
