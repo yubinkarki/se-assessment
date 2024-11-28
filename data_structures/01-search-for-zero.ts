@@ -32,7 +32,7 @@ Sample Output 2:
 */
 
 function checkForZero(numList: number[]): "Yes" | "No" {
-  if (numList.length <= 0) throw new Error("Invalid input");
+  if (numList.length === 0) throw new Error("Invalid input");
 
   const digitToCheck: string = "0";
   const stringNumList: string[] = [];
@@ -54,6 +54,18 @@ function checkForZero(numList: number[]): "Yes" | "No" {
 
   return zeroExists ? "Yes" : "No";
 }
+
+// function checkForZero(numList: number[]): "Yes" | "No" {
+//   if (numList.length === 0) {
+//     throw new Error("Invalid input");
+//   }
+
+//   const zeroExists: boolean = numList.some((num: number) =>
+//     num.toString().includes("0")
+//   );
+
+//   return zeroExists ? "Yes" : "No";
+// }
 
 const numberList: number[] = [3231, 231, 21, 40123];
 
